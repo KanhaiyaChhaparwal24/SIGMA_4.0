@@ -1,0 +1,55 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,h3{
+    color: #B92B27;
+}
+
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #B92B27;
+    color: white;
+}
+
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
+
+/* decendent selectors */
+p a{
+    color: purple;
+    background-color: yellow;
+}
+
+p+h3{
+    text-decoration: underline
+}
+.upvote + button{
+    background-color: cornflowerblue;
+    color: darkblue;
+}
+div > input{
+    background-color: darksalmon;
+}
+
+input[type="text"]{
+    color: red;
+}
+input[type="password"]{
+    color: green;
+}
+input[type]{
+    background-color: ghostwhite;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration: none;
+}
