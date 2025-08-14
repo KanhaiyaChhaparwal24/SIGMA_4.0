@@ -1,0 +1,87 @@
+h1 {
+  color: maroon;
+  font-weight: bold;
+  text-align: center;
+}
+.post {
+  background-color: blanchedalmond;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+.username {
+  font-style: italic;
+  font-weight: bold;
+  color: #333;
+}
+.edit-button {
+  background-color: green;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.show-button {
+  background-color: blue;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.delete-button {
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.new-button {
+  background-color: yellow;
+  border-radius: 5px;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: darkred;
+}
+
+.edit-button:hover {
+  background-color: darkgreen;
+}
+
+.show-button:hover {
+  background-color: darkblue;
+}
+
+.new-button:hover {
+  background-color: gold;
+}
