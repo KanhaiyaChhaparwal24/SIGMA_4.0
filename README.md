@@ -15,7 +15,7 @@ This repository contains my code and practice material from the **Apna College S
 - **REST_Class/** – REST API examples and exercises.
 - **SQLClass/** – SQL and Node.js integration examples.
 
-The **WanderLust/** project is kept locally for practice but is excluded from version control and uploads.
+The **WanderLust/** project is kept in a **separate repository** and is excluded from this one: [WanderLust-project](https://github.com/KanhaiyaChhaparwal24/WanderLust-project).
 
 ## Purpose
 
